@@ -1,6 +1,7 @@
-import { Link, Form, useActionData } from 'react-router-dom';
+import { Link, Form, useActionData, type ActionFunctionArgs } from 'react-router-dom';
+import ErrorMessage from '../components/ErrorMessage';
 
-export async function action({request}) {
+export async function action({request} : ActionFunctionArgs) {
     const data = Object.fromEntries(await request.formData())
     let error = ''
     if(Object.values(data).includes('')) {
@@ -25,6 +26,8 @@ export default function NewProduct(){
                     Volver a Productos
                 </Link>
             </div>
+
+            {error && <ErrorMessage>{error}</ErrorMessage>}
             <Form
                     className="mt-10"   
                     method='POST'   
