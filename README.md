@@ -27,7 +27,7 @@ Servicio para interactuar con la REST API :<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/bb25423252e9d8b271ff054f7fb9f7e8d165f7c5">Commit - Servicio para interactuar con la REST API
 
 Validando con ZOD antes -> la REST API:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/f77fa1de344da4d94c023a2e9dbf8d5e98680480">Commit - Validando con ZOD antes -> la REST API
 
 Enviar la peticón hacia la REST API:<br>
 <a href="">Commit - PENDIENTE
