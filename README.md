@@ -37,6 +37,7 @@ Qué son los CORS :<br>
 
 Habilitación de CORS en el Backend:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Back/commit/bea8092ea4ca1826f9c9e86e382543b7613a561d">Commit - Habilitación de CORS en el Backend
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/2fe09126790649e86a5257529a792c7a3e5dfcbc">Commit - Agregando Productos a la BD
 
 Agregar Morgan para el logging en Bk:<br>
 <a href="">Commit - PENDIENTE
