@@ -3,7 +3,7 @@ Crear el Proyecto:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/d6d8deb479b6d9523ef4b36619d739f5e9295d49">Commit - Crear el Proyecto
  
 Agregar Tailwind:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/d0f96d952603eaf97b85c3b6357a8b9b22baed22">Commit - Agregar Tailwind
 
 Agregar Data router de React Router :<br>
 <a href="">Commit - PENDIENTE
