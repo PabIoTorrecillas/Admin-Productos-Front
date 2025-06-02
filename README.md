@@ -18,7 +18,7 @@ Acciones del Data Router:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/15a6ee376df871820b3618f7ca388181dd7d942a">Commit - Acciones del Data Router
 
 Recuperando datos ingresados en form..:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/542ac7a17fba34035157cc39b0a9ee81528b688d">Commit - Recuperando datos ingresados en form.
 
 Mensajes de error:<br>
 <a href="">Commit - PENDIENTE
