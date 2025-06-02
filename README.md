@@ -33,7 +33,7 @@ Enviar la peticón hacia la REST API:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/ea51063600f02ecd5060d5e3cd55f12eee0e1a1c">Commit - Enviar la peticón hacia la REST API
 
 Qué son los CORS :<br>
-<a href="">Commit - PENDIENTE
+(Solo explicativo, aun sin codificar)
 
 Habilitación de CORS en el Backend:<br>
 <a href="">Commit - PENDIENTE
