@@ -15,7 +15,7 @@ Routing entre pages:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/a03ec972f7923515215a82498436afe2630bed6d">Commit - Routing entre pages
 
 Acciones del Data Router:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/15a6ee376df871820b3618f7ca388181dd7d942a">Commit - Acciones del Data Router
 
 Recuperando datos ingresados en form..:<br>
 <a href="">Commit - PENDIENTE
