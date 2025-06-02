@@ -12,7 +12,7 @@ Trabajando con Layout:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/8e401504e3883507389c057d28cd6ed45b13326a">Commit - Trabajando con Layout
 
 Routing entre pages:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/a03ec972f7923515215a82498436afe2630bed6d">Commit - Routing entre pages
 
 Acciones del Data Router:<br>
 <a href="">Commit - PENDIENTE
