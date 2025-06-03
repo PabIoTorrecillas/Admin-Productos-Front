@@ -52,7 +52,7 @@ Crear ruta para editar Productos:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/01a705b9c84914786936449eed93c108f2be7b42">Commit - PRouting EditProduct
 
 Boton para editar:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/0698a187b40ca3f782927da788b6b5a41d6e1a4f">Commit - Redirect with Link
 
 Redireccionar useNavigate:<br>
 <a href="">Commit - PENDIENTE
