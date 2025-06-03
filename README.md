@@ -58,7 +58,7 @@ Redireccionar useNavigate:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/64e594f7b952aca5a886d840d90641f7afbb94cc">Commit - Redirect with useNavigate
 
 Habilitar editar internamente:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/de8fca8585e72a2140c5a589d5025b40fa6cf444">Commit - Enable Internal Edit
 
 Habilitar editar desde la URL:<br>
 <a href="">Commit - PENDIENTE
