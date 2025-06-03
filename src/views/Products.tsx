@@ -2,6 +2,8 @@ import { Link, useLoaderData, type ActionFunctionArgs } from 'react-router-dom';
 import { getProducts, updateProductAvailability } from '../services/ProductService'
 import ProductDetails from '../components/ProductDetails';
 import type { Product } from '../types';
+import { downloadProductListAsExcel } from '../services/DownloadServices';
+
 
 export async function loader() {
   const products = await getProducts()
@@ -23,6 +25,12 @@ export default function Products(){
         <>
         <div className='flex justify-between'>
             <h2 className='text-4xl font-black text-slate-500'>Productos</h2>
+            <button
+            className='rounded-md bg-indigo-600 p-3 text-sm font-bold text-white shadow-sm hover:bg-indigo-500'
+            onClick={() => downloadProductListAsExcel(products)}
+            >
+                Descagar listas de productos
+            </button>
             <Link
                 to="productos/nuevo"
                 className='rounded-md bg-indigo-600 p-3 text-sm font-bold text-white shadow-sm hover:bg-indigo-500'
