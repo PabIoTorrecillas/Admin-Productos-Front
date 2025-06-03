@@ -34,10 +34,9 @@ export async function getProducts() {
         if(result.success) {
             return result.output
         } else {
-            throw new Error('Hubo un error...')
+            throw new Error('Hubo un error')
         }
     } catch (error) {
         console.log(error)
-        throw error;
     }
 }
