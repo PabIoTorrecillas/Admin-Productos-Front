@@ -70,7 +70,7 @@ Definiendo la acción para editar:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/03f30ea5eff76a8650926d749e1f4c4123743013">Commit - Defining action to edit
 
 Agregar disponibilidad de edición:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/19b9f755bb7fd6a24264c7fedb5ff1bbf467c66a">Commit - Edit Availability
 
 Validad la actualización con ZOD:<br>
 <a href="">Commit - PENDIENTE
@@ -96,6 +96,7 @@ Implementar fetcher:<br>
 Actualizando la disponibilidad:<br>
 <a href="">Commit - PENDIENTE
 <br><br>
+
 <h2>Deployment:</h2>
 Checklist deployment:<br>
 <a href="">Commit - PENDIENTE
