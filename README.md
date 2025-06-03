@@ -49,7 +49,7 @@ Mostrando Productos:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/e1409e9e00a5426227844f59a6fc9497d94ff09b">Commit - Mostrar Productos
 
 Crear ruta para editar Productos:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/01a705b9c84914786936449eed93c108f2be7b42">Commit - PRouting EditProduct
 
 Boton para editar:<br>
 <a href="">Commit - PENDIENTE
