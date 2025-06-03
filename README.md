@@ -55,7 +55,7 @@ Boton para editar:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/0698a187b40ca3f782927da788b6b5a41d6e1a4f">Commit - Redirect with Link
 
 Redireccionar useNavigate:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/64e594f7b952aca5a886d840d90641f7afbb94cc">Commit - Redirect with useNavigate
 
 Habilitar editar internamente:<br>
 <a href="">Commit - PENDIENTE
