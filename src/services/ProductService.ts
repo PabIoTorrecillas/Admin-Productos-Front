@@ -27,6 +27,7 @@ export async function addProduct(data: ProductData) {
 }
 
 export async function getProducts() {
+    
     try {
         const url = `${import.meta.env.VITE_API_URL}/api/products`
         const {data } = await axios(url)
@@ -37,6 +38,7 @@ export async function getProducts() {
             throw new Error('Hubo un error')
         }
     } catch (error) {
+        
         console.log(error)
     }
 }
