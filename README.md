@@ -76,7 +76,7 @@ Validad la actualización con ZOD:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/f274c6f9e86219d92d14524bbe1a186be3807c63">Commit - Validate the update
 
 Actualización de los productos:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/672642342ded3e10c8a2da50cbc150858fd9a3b1">Commit - Updating Products
 
 Componente de Formularios reutilizable:<br>
 <a href="">Commit - PENDIENTE
