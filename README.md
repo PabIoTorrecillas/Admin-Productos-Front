@@ -64,7 +64,7 @@ Habilitar editar desde la URL:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/699f5a37a9dae8f6f327b74e103e8933ed1458a4">Commit - Enable URL Edit
 
 Llenando formulario con el Producto-editar:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/a9cfa163d4367db8388d291eb67d7d391e9c6210">Commit - Filling the From with the Product Info
 
 Definiendo la acción para editar:<br>
 <a href="">Commit - PENDIENTE
