@@ -73,7 +73,7 @@ Agregar disponibilidad de edición:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/19b9f755bb7fd6a24264c7fedb5ff1bbf467c66a">Commit - Edit Availability
 
 Validad la actualización con ZOD:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/f274c6f9e86219d92d14524bbe1a186be3807c63">Commit - Validate the update
 
 Actualización de los productos:<br>
 <a href="">Commit - PENDIENTE

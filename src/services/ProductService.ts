@@ -71,7 +71,10 @@ export async function updateProduct(id: Product['id'], data: ProductData) {
             price: parse(numberSchema, data.price),
             availability: toBoolean(data.availability.toString())
         })
-       
+        if(result.success) {
+            const url = `${import.meta.env.VITE_API_URL}/api/products/${id}`
+            await axios.put(url, result.output)
+        }
     } catch (error) {
         console.log(error)
     }
