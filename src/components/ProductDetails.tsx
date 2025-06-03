@@ -1,4 +1,4 @@
-import {Form, useNavigate, type ActionFunctionArgs, redirect} from 'react-router-dom'
+import {Form, useNavigate, type ActionFunctionArgs, redirect, useFetcher} from 'react-router-dom'
 import type { Product } from "../types"
 import { formatCurrency } from "../utils"
 import { deleteProduct } from '../services/ProductService'
@@ -17,8 +17,8 @@ export async function action({params} : ActionFunctionArgs) {
 
 export default function ProductDetails({product}: ProductDetailsProps) {
 
+    const fetcher = useFetcher()
     const navigate = useNavigate()
-
     const isAvailable = product.availability
     return (
         <tr className="border-b ">
@@ -29,16 +29,16 @@ export default function ProductDetails({product}: ProductDetailsProps) {
                 {formatCurrency(product.price)}
             </td>
             <td className="p-3 text-lg text-gray-800">
-                <form method='POST'>
+                <fetcher.Form method='POST'>
                     <button
-                    type='button'
-                    name='availability'
-                    value={product.availability.toString()}
+                    type='submit'
+                    name='id'
+                    value={product.id}
                     className={`${isAvailable? 'text-green-600' : 'text-red-600'} rounded-lg w-full p-2 uppercase font-bold text-xs border border-black hover:cursor-pointer`}
                     >
                         {isAvailable ? 'Disponible' : 'No disponible'}
                     </button>
-                </form>
+                </fetcher.Form>
             </td>
             <td className="p-3 text-lg text-gray-800 ">
                 <div className="flex gap-2 items-center">
