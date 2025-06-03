@@ -82,7 +82,7 @@ Componente de Formularios reutilizable:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/ba2a6aab6ea721fe09924d55f45a2ef4238a2fe6">Commit - Reusable Form Component
 
 Eliminar - 1 pasos:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/ed0feea68d9aba39d4c2a45287fe4a839f5ee377">Commit - Delete Firsts Steps
 
 Eliminar Productos:<br>
 <a href="">Commit - PENDIENTE
