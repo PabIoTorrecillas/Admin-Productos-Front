@@ -79,7 +79,7 @@ Actualización de los productos:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/672642342ded3e10c8a2da50cbc150858fd9a3b1">Commit - Updating Products
 
 Componente de Formularios reutilizable:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/ba2a6aab6ea721fe09924d55f45a2ef4238a2fe6">Commit - Reusable Form Component
 
 Eliminar - 1 pasos:<br>
 <a href="">Commit - PENDIENTE
