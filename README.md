@@ -85,7 +85,7 @@ Eliminar - 1 pasos:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/ed0feea68d9aba39d4c2a45287fe4a839f5ee377">Commit - Delete Firsts Steps
 
 Eliminar Productos:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/9b02285a748c433a2e5eaf42c3463a325fe37be8">Commit - Function to Delete Products
 
 Creando formulario parta disponilibilidad:<br>
 <a href="">Commit - PENDIENTE
