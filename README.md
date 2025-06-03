@@ -43,10 +43,10 @@ Agregar Morgan para el logging en Bd:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Back/commit/0f6b58484eafbd54b01b922bcfce2b374bfd74af">Commit - Agregar Morgan para el logging en Bd
 
 Intro a Loaders en React Router:<br>
-<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/5258b9c06e11b6db65ba0d43c3587b139124ee90">Commit - Intro a Loaders en React Router
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/25b959047e213173e21337b3e73ae7f18e4e5bc0">Commit - Intro a Loaders en React Router
 
 Mostrando Productos:<br>
-<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/34df52a86636f54381346ce4124e157fa85939c3">Commit - Mostrando Productos
+<a href="">Commit - Mostrando Productos
 
 Crear ruta para editar Productos:<br>
 <a href="">Commit - PENDIENTE
