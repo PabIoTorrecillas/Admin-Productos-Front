@@ -61,7 +61,7 @@ Habilitar editar internamente:<br>
 <a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/de8fca8585e72a2140c5a589d5025b40fa6cf444">Commit - Enable Internal Edit
 
 Habilitar editar desde la URL:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Front/commit/699f5a37a9dae8f6f327b74e103e8933ed1458a4">Commit - Enable URL Edit
 
 Llenando formulario con el Producto-editar:<br>
 <a href="">Commit - PENDIENTE
