@@ -99,16 +99,14 @@ Actualizando la disponibilidad:<br>
 
 <h2>Deployment:</h2>
 Checklist deployment:<br>
-<a href="">Commit - PENDIENTE
+(Solo explicativo, aun sin codificar)
  
 Ajustes del Backend:<br>
-<a href="">Commit - PENDIENTE
+<a href="https://github.com/PabIoTorrecillas/Admin-Productos-Back/commit/b2d0dc6924970126939793bdc9ea096c218ccd9d">Commit - Adjusting the Backend
 
 Subiendo server hacia Github:<br>
-<a href="">Commit - PENDIENTE
+(Ya estabamos usando un repositorio)
 
-Conectando Server a Render:<br>
-<a href="">Commit - PENDIENTE
+Deployment:<br>
+<a href="">
 
-Subiendo Frontend a Vercel:<br>
-<a href="">Commit - PENDIENTE
